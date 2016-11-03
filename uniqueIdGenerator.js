@@ -1,8 +1,5 @@
 // CountdownGenerator Exercise
 var countdownGenerator = function (counter) {
-  /* your code here */
-  //var counter = x + 1;
-  //counter++;
   var output = "";
   return function () {
     if (counter > 0) console.log("T-minus " + counter + "...");
