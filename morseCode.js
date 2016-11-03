@@ -58,7 +58,3 @@ for (item of chrArry) {
 // remove extra space at end of output
 output = output.substring(0, output.length - 1);
 console.log(output);
-
-
-
-
